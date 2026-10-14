@@ -1,0 +1,6 @@
+{
+  "name": "TurboType Apex - Multiplayer Car Racing Typing Game",
+  "description": "High-octane multiplayer car racing typing game. The faster you type, the faster your car races! Compete in real-time lobbies, tune cars in the garage, climb global leaderboards, complete daily quests, and chat with racers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
